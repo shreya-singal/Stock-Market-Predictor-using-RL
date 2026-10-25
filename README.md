@@ -198,7 +198,4 @@ The project includes a small end-to-end demo via the CLI. Running the command ab
 - Sutton, R. S., & Barto, A. G. (2018). Reinforcement Learning: An Introduction.
 - Yahoo Finance for historical market data.
 
-## Notes on reliability
-
-This project is useful as a learning and demo pipeline. It is intentionally transparent about its limitations and does not claim to be a production-grade trading strategy.
 
