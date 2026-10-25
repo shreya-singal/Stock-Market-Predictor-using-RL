@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.vscode/
+.ipynb_checkpoints/
+.DS_Store
+*.egg-info/
+.mypy_cache/
+*.log
+results/
+!results/.gitkeep
+
+data/raw/*.csv
+!data/raw/.gitkeep
